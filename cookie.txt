@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.wdeback.gitlab.io	TRUE	/	FALSE	1758638928	sc_is_visitor_unique	rx11828170.1724078928.DF9CC6E2AEC54FD7A0EAD92A9F3A7F02.1.1.1.1.1.1.1.1.1
